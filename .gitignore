@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Streamlit config / cache
+.streamlit/
